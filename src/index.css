@@ -1,0 +1,35 @@
+/* index.css - تنسيق أساسي */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+header {
+  background-color: #1f2937;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 0.9rem;
+}
